@@ -7,7 +7,7 @@ public class Main {
     }
 
     private static double add(double x, double y){
-        return x+y;
+        return y+x;
     }
 
 
